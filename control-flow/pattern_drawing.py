@@ -1,5 +1,4 @@
-number = input("Enter the size of the pattern:")
-number = int(number)
+number = int(input("Enter the size of the pattern:"))
 if number > 0:
     row = 0
     while row < number:
